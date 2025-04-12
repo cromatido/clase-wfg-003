@@ -16,3 +16,6 @@
 
 # Capitulo 1 : Poemas
 ## Golgota rosa
+
+# Capitulo 2: Libros
+## El barril del amontillado
